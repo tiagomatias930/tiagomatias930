@@ -28,7 +28,7 @@
 
 <td>
 
-| 42 Launda  | [ft_printf](https://github.com/tiagomatias930/ft_printf) | [libft](#) | [gnl]#) | [Born2BeRoot](#) | [Fractol](#) | [Push Swap](#)|
+| 42 Launda  | [ft_printf](https://github.com/tiagomatias930/ft_printf) | [libft](https://github.com/tiagomatias930/LIBFT-42) | [gnl]#) | [Born2BeRoot](#) | [Fractol](#) | [Push Swap](#)|
 |--|--|--|--|--|--|--|
 
 </td> </tr> </table>
