@@ -62,11 +62,10 @@
 
 | Category | Technologies |
 |:--------:|:------------|
-| **Languages** | ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00d4ff) ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00d4ff) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6) ![Dart](https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=00d4ff) ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=a78bfa) |
+| **Languages** | ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00d4ff) ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00d4ff) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6) ![C++](https://img.shields.io/badge/Cplusplus-0d1117?style=flat-square&logo=cplusplus&logoColor=00d4ff) ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=a78bfa) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb) ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26) ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6) ![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38bdf8) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B) ![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61dafb) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933) ![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092e20) ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1) ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47a248) ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1) |
+| **Mobile** |  ![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61dafb) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933) ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=ffffff) |
 | **Security** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94) ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=hackthebox&logoColor=ff6633) |
 | **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05032) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed) ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=fcc624) ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007acc) ![Vim](https://img.shields.io/badge/Vim-0d1117?style=flat-square&logo=vim&logoColor=019733) |
 
@@ -112,24 +111,6 @@
 - 🧠 Advancing through the **42 curriculum** (C, algorithms, system programming)
 - 🤝 Open to collaborate on **open-source projects & security tools**
 - 📚 Studying for **security certifications**
-
-</details>
-
-<details>
-<summary><strong>🏆 42 School Journey</strong></summary>
-<br/>
-
-<div align="center">
-
-| Project | Description | Status |
-|:--------|:-----------|:------:|
-| Libft | Custom C library | ✅ |
-| ft_printf | Printf recreation | ✅ |
-| get_next_line | File reading function | ✅ |
-| Born2beroot | System administration | ✅ |
-| ... | More projects coming | 🚀 |
-
-</div>
 
 </details>
 
