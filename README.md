@@ -31,20 +31,6 @@
 
 <br/>
 
-<!-- ─── ABOUT ME ─── -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=tiagomatias930&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&icon_color=a78bfa&bg_color=0d111700&ring_color=00d4ff&include_all_commits=true&count_private=true" width="420" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomatias930&layout=donut-vertical&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d111700&langs_count=6" width="320" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <!-- ─── STREAK STATS ─── -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tiagomatias930&theme=transparent&hide_border=true&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&background=0d111700" width="700" alt="GitHub Streak"/>
