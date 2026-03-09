@@ -116,13 +116,6 @@
 
 <br/>
 
-<!-- ─── TROPHIES ─── -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tiagomatias930&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="95%" alt="Trophies"/>
-</div>
-
-<br/>
-
 <!-- ─── CONNECT ─── -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">&nbsp;
@@ -147,10 +140,6 @@
 
 <!-- ─── QUOTE ─── -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Quote" width="600"/>
-</div>
-
-<br/>
 
 <!-- ─── FOOTER ─── -->
 <div align="center">
